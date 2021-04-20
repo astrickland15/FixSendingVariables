@@ -1,0 +1,10 @@
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\obj\Debug\FixSendingVariables.csprojAssemblyReference.cache
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\obj\Debug\FixSendingVariables.Form1.resources
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\obj\Debug\FixSendingVariables.Properties.Resources.resources
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\obj\Debug\FixSendingVariables.csproj.GenerateResource.cache
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\obj\Debug\FixSendingVariables.csproj.CoreCompileInputs.cache
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\bin\Debug\FixSendingVariables.exe.config
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\bin\Debug\FixSendingVariables.exe
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\bin\Debug\FixSendingVariables.pdb
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\obj\Debug\FixSendingVariables.exe
+C:\Users\Anthony.Strickland\Source\repos\FixSendingVariables\FixSendingVariables\obj\Debug\FixSendingVariables.pdb
